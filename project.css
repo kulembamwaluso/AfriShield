@@ -1,0 +1,36 @@
+div p{
+display:flex;
+align-items: center;
+justify-content: center;
+text-decoration: none;
+color: black;
+text-emphasis: bold;
+background-color: antiquewhite;
+font-family: sans-serif;
+font-size: large;
+
+}
+.pages{
+display:flex;
+padding: 14px 20px;
+justify-content: center;
+text-decoration: none;
+text-emphasis: bold;
+background-color: rgb(215, 217, 250);
+
+}
+div a{
+display:flex;
+padding: 14px 20px;
+justify-content: center;
+text-decoration: none;
+text-emphasis: bold;
+color: black;
+}
+a:hover{
+    background-color: blue;    
+}
+a:active{
+    background-color: rgb(214, 214, 235);    
+}
+
